@@ -4,7 +4,7 @@ Building basic tooling to improve cryptographic visibility and support post-quan
 
 - [**pq-pulse**](https://github.com/post-q/pq-pulse) -- active post-quantum cryptographic discovery through endpoint probing
 - [**pq-map**](https://github.com/post-q/pq-map) -- discovery and mapping of publicly visible cryptographic posture using open-source intelligence
-- [**pq-map**](https://github.com/post-q/pq-graph) -- Combines infrastructure, cryptography, and service providers into one view.
+- [**pq-graph**](https://github.com/post-q/pq-graph) -- Combines infrastructure, cryptography, and service providers into one view.
 
 <!--
 
